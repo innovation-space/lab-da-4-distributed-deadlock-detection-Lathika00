@@ -17,6 +17,11 @@ If the probe returns to the initiator, a deadlock is detected.
 - Deadlock / No Deadlock scenarios
 - Execution trace visualization
 - Message complexity analysis
+  
+## Message Complexity
+- Depends on number of edges  
+- General: O(E)  
+- Worst case: O(N)  
 
 ## How to Run
 pip install -r requirements.txt  
