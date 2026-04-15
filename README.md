@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Xdwtc3RS)
-=======
+
 # Distributed Deadlock Detection
 
 ## Description
@@ -33,4 +31,3 @@ python -m streamlit run wait_for.py
 
 ## Conclusion
 Deadlocks are detected by identifying cycles in the Wait-For Graph using probe messages.
->>>>>>> bb1a0f83b95370c824c4daef41d48b084361ead0
